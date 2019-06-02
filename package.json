@@ -1,0 +1,22 @@
+{
+  "name": "github-execise",
+  "version": "1.0.0",
+  "description": "\"# github-execise\"",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylmile/github-execise.git"
+  },
+  "author": "Sylmile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylmile/github-execise/issues"
+  },
+  "homepage": "https://github.com/Sylmile/github-execise#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
